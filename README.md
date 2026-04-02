@@ -47,10 +47,10 @@ Specialization : Apex • LWC • Aura • REST APIs • Data Cloud • Integrat
 
 | 🥇 Certification | 🥇 Certification | 🥇 Certification |
 |:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Platform_Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) |
-| ![](https://img.shields.io/badge/Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Sales_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Service_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) |
-| ![](https://img.shields.io/badge/Experience_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Data_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/JavaScript_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) |
-| ![](https://img.shields.io/badge/Platform_Foundations-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![](https://img.shields.io/badge/Agentforce_Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) |
+| ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000) | ![]([https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000)) | ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAHu9&oid=00DF0000000gZsu&lastMod=1746781628000) |
+| ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAC4t&oid=00DF0000000gZsu&lastMod=1746777975000) | ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAI2D&oid=00DF0000000gZsu&lastMod=1746781709000) | ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAERd&oid=00DF0000000gZsu&lastMod=1746778675000) |
+| ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000M9w3J&oid=00DF0000000gZsu&lastMod=1746772244000) | ![](http://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=1746782543000) | ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000ZxOq9&oid=00DF0000000gZsu&lastMod=1772523539000) |
+| ![](https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA14b&oid=00DF0000000gZsu&lastMod=1746774124000) |
 
 </div>
 
