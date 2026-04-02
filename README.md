@@ -76,6 +76,7 @@ Specialization : Apex • LWC • Aura • REST APIs • Data Cloud • Integrat
 ![Automotive Cloud](https://img.shields.io/badge/Automotive_Cloud-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Data Cloud](https://img.shields.io/badge/Data_Cloud-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
+![Education Cloud](https://img.shields.io/badge/Education_Cloud-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### 💻 Languages & Web
 ![SOQL](https://img.shields.io/badge/SOQL-FF6B35?style=for-the-badge&logoColor=white)
